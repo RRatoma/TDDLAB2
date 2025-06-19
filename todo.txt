@@ -1,0 +1,5 @@
+- [ ] Wenn kein Würfel doppelt vorkommt, gib X zurück
+- [ ] Wenn zwei gleiche Zahlen vorkommen, werte sie als Paar
+- [ ] Zähle Punkte nur für Paare (oder ignorier Einzelne?)
+- [ ] Berücksichtige den Wert der Paare (z. B. 2×Wert?)
+- [ ] Summiere alle gültigen Punkte und gib sie zurück
