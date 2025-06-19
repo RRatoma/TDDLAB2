@@ -1,1 +1,3 @@
-return 6;
+function electrons(dice) {
+  return 6;
+}

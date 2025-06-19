@@ -3,4 +3,8 @@ describe("Electrons around the cores", function() {
     expect(electrons([1,2,3,4,5])).toBe(6);
   });
   
+  it("should return 4 for [2,2,3,3]", function() {
+  expect(electrons([2,2,3,3])).toBe(4);
+});
+
 });
